@@ -1,0 +1,3 @@
+# FirstTime
+
+Nghịch Lần Đầu
